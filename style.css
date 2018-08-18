@@ -133,7 +133,7 @@ showcase h1 {
 	text-decoration: none;
 }
 /* media queries */
-@media(min-width: 900px) {
+@media(min-width: 1200px) {
 	.grid {
 		display: grid;
 		grid-template-columns: 1fr repeat(2, minmax(auto, 25em)) 1fr;
